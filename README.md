@@ -13,3 +13,5 @@ The following courses have been uploaded for now:
     - Linear Algebra (MA2.101)
     - Analog Electronic Circuits (EC2.103)
     - Information and Communication (EC5.102)
+
+And of course, refer to similar repositories for [UG2022](https://github.com/zyx7k/course-material) and [UG2021](https://github.com/brahad316/course-material) :) 
