@@ -15,5 +15,17 @@ The following courses have been uploaded for now:
     - Analog Electronic Circuits (EC2.103)
     - Information and Communication (EC5.102)
     - Data Structures and Algorithms (CS1.201)
+- Semester 3
+    - Science 1 (SC1.110)
+    - Probability and Random Processes (MA6.102)
+    - Signal Processing (EC5.201)
+    - Systems Thinking (EC5.202)
+    - VLSI Design (EC2.201)
+- Semester 4
+    - Communication Theory (EC5.203)
+    - Intro to Human Sciences (HS8.102)
+    - Intro to Processor Architecture (EC2.204)
+    - Mechatronics System Design-1 (EC4.201)
+    - Radio Frequency Based Sensors design: Principles and Applications (EC2.205)
 
 And of course, refer to similar repositories for [UG2022](https://github.com/zyx7k/course-material) and [UG2021](https://github.com/brahad316/course-material) :) 
