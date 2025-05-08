@@ -27,5 +27,6 @@ The following courses have been uploaded for now:
     - Intro to Processor Architecture (EC2.204)
     - Mechatronics System Design-1 (EC4.201)
     - Radio Frequency Based Sensors design: Principles and Applications (EC2.205)
+    - Intro to Coding Theory (EC5.205)
 
 And of course, refer to similar repositories for [UG2022](https://github.com/zyx7k/course-material) and [UG2021](https://github.com/brahad316/course-material) :) 
